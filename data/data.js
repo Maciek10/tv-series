@@ -114,7 +114,7 @@ var series = [{
 },{
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
-  "episodes": 12,
+  "episodes": 24,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -144,14 +144,14 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
-  "episodes": 28,
+  "episodes": 29,
   "episodeLength": 60,
   "stillWatching": 1
 },
 {
   "title": "Hannibal",
   "imdb": "http://www.imdb.com/title/tt2243973",
-  "episodes": 9,
+  "episodes": 10,
   "episodeLength": 43,
   "stillWatching": 1
 }, {
@@ -257,7 +257,7 @@ var series = [{
 }, {
   "title": "Revenge",
   "imdb": "http://www.imdb.com/title/tt1837642/",
-  "episodes": 1,
+  "episodes": 5,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
