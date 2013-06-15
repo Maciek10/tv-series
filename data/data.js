@@ -27,7 +27,7 @@ var series = [{
 }, {
   "title": "Anger Management",
   "imdb": "http://www.imdb.com/title/tt1986770",
-  "episodes": 25,
+  "episodes": 26,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -102,7 +102,7 @@ var series = [{
 },{
   "title": "Da Vinci's Demons",
   "imdb": "http://www.imdb.com/title/tt2094262/",
-  "episodes": 4,
+  "episodes": 8,
   "episodeLength": 60,
   "stillWatching": 1
 },{
@@ -144,14 +144,14 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
-  "episodes": 29,
+  "episodes": 30,
   "episodeLength": 60,
   "stillWatching": 1
 },
 {
   "title": "Hannibal",
   "imdb": "http://www.imdb.com/title/tt2243973",
-  "episodes": 10,
+  "episodes": 12,
   "episodeLength": 43,
   "stillWatching": 1
 }, {
@@ -257,7 +257,7 @@ var series = [{
 }, {
   "title": "Revenge",
   "imdb": "http://www.imdb.com/title/tt1837642/",
-  "episodes": 5,
+  "episodes": 22,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -288,7 +288,7 @@ var series = [{
 }, {
   "title": "Simpsons",
   "imdb": "http://www.imdb.com/title/tt0096697/",
-  "episodes": 22,
+  "episodes": 23,
   "totalEpisodes": "523",
   "episodeLength": 24,
   "stillWatching": 1
