@@ -108,7 +108,7 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": "84",
+  "episodes": 85,
   "episodeLength": 50,
   "stillWatching": 1
 },{
@@ -257,7 +257,7 @@ var series = [{
 }, {
   "title": "Revenge",
   "imdb": "http://www.imdb.com/title/tt1837642/",
-  "episodes": 33,
+  "episodes": 44,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
