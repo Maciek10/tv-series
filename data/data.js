@@ -108,7 +108,7 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 85,
+  "episodes": 86,
   "episodeLength": 50,
   "stillWatching": 1
 },{
@@ -138,7 +138,7 @@ var series = [{
 }, {
   "title": "Futurama",
   "imdb": "http://www.imdb.com/title/tt0149460/",
-  "episodes": "127",
+  "episodes": 129,
   "episodeLength": 22,
   "stillWatching": 0
 }, {
@@ -216,6 +216,12 @@ var series = [{
   "episodes": "121",
   "episodeLength": 48,
   "stillWatching": 0
+}, {
+  "title": "Louie",
+  "imdb": "http://www.imdb.com/title/tt1492966",
+  "episodes": 3,
+  "episodeLength": 23,
+  "stillWatching": 1
 }, {
   "title": "MacGuyver",
   "imdb": "http://www.imdb.com/title/tt0088559/",
