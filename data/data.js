@@ -108,7 +108,7 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 87,
+  "episodes": 89,
   "episodeLength": 50,
   "stillWatching": 1
 },{
@@ -138,7 +138,7 @@ var series = [{
 }, {
   "title": "Futurama",
   "imdb": "http://www.imdb.com/title/tt0149460/",
-  "episodes": 129,
+  "episodes": 130,
   "episodeLength": 22,
   "stillWatching": 0
 }, {
