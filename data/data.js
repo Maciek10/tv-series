@@ -27,7 +27,7 @@ var series = [{
 }, {
   "title": "Anger Management",
   "imdb": "http://www.imdb.com/title/tt1986770",
-  "episodes": 29,
+  "episodes": 31,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -108,7 +108,7 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 89,
+  "episodes": 90,
   "episodeLength": 50,
   "stillWatching": 1
 },{
@@ -197,6 +197,12 @@ var series = [{
   "episodes": "29",
   "episodeLength": 43,
   "stillWatching": 0
+},{
+  "title": "Joey",
+  "imdb": "http://www.imdb.com/title/tt0375355/",
+  "episodes": 5,
+  "episodeLength": 24,
+  "stillWatching": 1
 }, {
   "title": "Kyle XY",
   "imdb": "http://www.imdb.com/title/tt0756509/",
