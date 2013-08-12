@@ -130,6 +130,12 @@ var series = [{
   "episodeLength": 42,
   "stillWatching": 0
 }, {
+  "title": "Franklin & Bash",
+  "imdb": "http://www.imdb.com/title/tt1600199/",
+  "episodes": 1,
+  "episodeLength": 42,
+  "stillWatching": 1
+}, {
   "title": "Fringe",
   "imdb": "http://www.imdb.com/title/tt1119644/",
   "episodes": "100",
@@ -140,7 +146,7 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0149460/",
   "episodes": 130,
   "episodeLength": 22,
-  "stillWatching": 0
+  "stillWatching": 1
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
@@ -200,9 +206,15 @@ var series = [{
 },{
   "title": "Joey",
   "imdb": "http://www.imdb.com/title/tt0375355/",
-  "episodes": 5,
+  "episodes": 7,
   "episodeLength": 24,
   "stillWatching": 1
+}, {
+  "title": "King of Queens",
+  "imdb": "http://www.imdb.com/title/tt0165581/",
+  "episodes": 207,
+  "episodeLength": 22,
+  "stillWatching": 0
 }, {
   "title": "Kyle XY",
   "imdb": "http://www.imdb.com/title/tt0756509/",
@@ -304,7 +316,7 @@ var series = [{
   "episodeLength": 90,
   "stillWatching": 1
 }, {
-  "title": "Simpsons",
+  "title": "Simpsons, The",
   "imdb": "http://www.imdb.com/title/tt0096697/",
   "episodes": 23,
   "totalEpisodes": "523",
@@ -323,6 +335,13 @@ var series = [{
   "episodeLength": 42,
   "stillWatching": 1
 }, {
+  "title": "That '70s Show",
+  "imdb": "http://www.imdb.com/title/tt0165598/",
+  "episodes": 4,
+  "totalEpisodes": 200
+  "episodeLength": 22,
+  "stillWatching": 1
+},{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
   "episodes": 223,
@@ -335,7 +354,7 @@ var series = [{
   "episodeLength": 42,
   "stillWatching": 1
 }, {
-  "title": "Wire",
+  "title": "Wire, The",
   "imdb": "http://www.imdb.com/title/tt0306414",
   "episodes": "60",
   "episodeLength": 60,
