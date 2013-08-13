@@ -57,7 +57,7 @@ var series = [{
 }, {
   "title": "Breaking Bad",
   "imdb": "http://www.imdb.com/title/tt0903747/",
-  "episodes": "54",
+  "episodes": 55,
   "episodeLength": 47,
   "stillWatching": 1
 }, {
@@ -337,7 +337,7 @@ var series = [{
 }, {
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
-  "episodes": 4,
+  "episodes": 6,
   "totalEpisodes": 200,
   "episodeLength": 22,
   "stillWatching": 1
