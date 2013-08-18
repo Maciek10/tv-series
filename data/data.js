@@ -27,7 +27,7 @@ var series = [{
 }, {
   "title": "Anger Management",
   "imdb": "http://www.imdb.com/title/tt1986770",
-  "episodes": 31,
+  "episodes": 33,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -108,7 +108,7 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 90,
+  "episodes": 91,
   "episodeLength": 50,
   "stillWatching": 1
 },{
@@ -132,7 +132,7 @@ var series = [{
 }, {
   "title": "Franklin & Bash",
   "imdb": "http://www.imdb.com/title/tt1600199/",
-  "episodes": 1,
+  "episodes": 5,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -144,7 +144,7 @@ var series = [{
 }, {
   "title": "Futurama",
   "imdb": "http://www.imdb.com/title/tt0149460/",
-  "episodes": 130,
+  "episodes": 131,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -206,7 +206,7 @@ var series = [{
 },{
   "title": "Joey",
   "imdb": "http://www.imdb.com/title/tt0375355/",
-  "episodes": 7,
+  "episodes": 11,
   "episodeLength": 24,
   "stillWatching": 1
 }, {
