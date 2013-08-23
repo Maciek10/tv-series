@@ -57,7 +57,7 @@ var series = [{
 }, {
   "title": "Breaking Bad",
   "imdb": "http://www.imdb.com/title/tt0903747/",
-  "episodes": 55,
+  "episodes": 56,
   "episodeLength": 47,
   "stillWatching": 1
 }, {
@@ -132,7 +132,7 @@ var series = [{
 }, {
   "title": "Franklin & Bash",
   "imdb": "http://www.imdb.com/title/tt1600199/",
-  "episodes": 9,
+  "episodes": 20,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -331,7 +331,7 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 30,
+  "episodes": 31,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
