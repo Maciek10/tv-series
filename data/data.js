@@ -57,7 +57,7 @@ var series = [{
 }, {
   "title": "Breaking Bad",
   "imdb": "http://www.imdb.com/title/tt0903747/",
-  "episodes": 59,
+  "episodes": 60,
   "episodeLength": 47,
   "stillWatching": 1
 }, {
@@ -108,7 +108,7 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 94,
+  "episodes": 96,
   "episodeLength": 53,
   "stillWatching": 1
 },{
@@ -331,13 +331,13 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 33,
+  "episodes": 34,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
-  "episodes": 50,
+  "episodes": 53,
   "totalEpisodes": 200,
   "episodeLength": 22,
   "stillWatching": 1
