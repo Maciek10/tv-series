@@ -57,7 +57,7 @@ var series = [{
 }, {
   "title": "Breaking Bad",
   "imdb": "http://www.imdb.com/title/tt0903747/",
-  "episodes": 60,
+  "episodes": 61,
   "episodeLength": 47,
   "stillWatching": 1
 }, {
@@ -245,7 +245,7 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt1492966",
   "episodes": 39,
   "episodeLength": 23,
-  "stillWatching": 1
+  "stillWatching": 0
 }, {
   "title": "MacGuyver",
   "imdb": "http://www.imdb.com/title/tt0088559/",
