@@ -182,7 +182,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 184,
+  "episodes": 186,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -337,7 +337,7 @@ var series = [{
 }, {
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
-  "episodes": 53,
+  "episodes": 55,
   "totalEpisodes": 200,
   "episodeLength": 22,
   "stillWatching": 1
