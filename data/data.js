@@ -57,9 +57,9 @@ var series = [{
 }, {
   "title": "Breaking Bad",
   "imdb": "http://www.imdb.com/title/tt0903747/",
-  "episodes": 61,
-  "episodeLength": 47,
-  "stillWatching": 1
+  "episodes": 62,
+  "episodeLength": 52,
+  "stillWatching": 0
 }, {
   "title": "Boardwalk Empire",
   "imdb": "http://www.imdb.com/title/tt0979432/",
