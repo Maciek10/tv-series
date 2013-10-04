@@ -182,7 +182,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 186,
+  "episodes": 187,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -256,7 +256,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 114,
+  "episodes": 115,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -337,7 +337,7 @@ var series = [{
 }, {
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
-  "episodes": 72,
+  "episodes": 74,
   "totalEpisodes": 200,
   "episodeLength": 22,
   "stillWatching": 1
