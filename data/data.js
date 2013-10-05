@@ -45,7 +45,7 @@ var series = [{
 }, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 135,
+  "episodes": 138,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -114,7 +114,7 @@ var series = [{
 },{
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
-  "episodes": 24,
+  "episodes": 25,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
