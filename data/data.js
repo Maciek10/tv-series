@@ -256,7 +256,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 116,
+  "episodes": 117,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -337,7 +337,7 @@ var series = [{
 }, {
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
-  "episodes": 117,
+  "episodes": 125,
   "totalEpisodes": 200,
   "episodeLength": 22,
   "stillWatching": 1
