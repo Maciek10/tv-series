@@ -33,7 +33,7 @@ var series = [{
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
-  "episodes": 24,
+  "episodes": 26,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -182,7 +182,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 188,
+  "episodes": 193,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -256,7 +256,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 117,
+  "episodes": 122,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -337,14 +337,14 @@ var series = [{
 }, {
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
-  "episodes": 125,
+  "episodes": 172,
   "totalEpisodes": 200,
   "episodeLength": 22,
   "stillWatching": 1
 },{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 227,
+  "episodes": 229,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
