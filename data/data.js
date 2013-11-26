@@ -45,7 +45,7 @@ var series = [{
 }, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 139,
+  "episodes": 140,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -141,6 +141,13 @@ var series = [{
   "episodes": "100",
   "episodeLength": 47,
   "stillWatching": 0
+},{
+  "title": "Friends",
+  "imdb": "http://www.imdb.com/title/tt0108778/",
+  "episodes": 12,
+  "totalEpisodes": 239,
+  "episodeLength": 22,
+  "stillWatching": 1
 }, {
   "title": "Futurama",
   "imdb": "http://www.imdb.com/title/tt0149460/",
@@ -256,7 +263,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 123,
+  "episodes": 124,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -343,7 +350,7 @@ var series = [{
 },{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 229,
+  "episodes": 230,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
