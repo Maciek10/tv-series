@@ -33,7 +33,7 @@ var series = [{
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
-  "episodes": 26,
+  "episodes": 32,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -45,7 +45,7 @@ var series = [{
 }, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 140,
+  "episodes": 146,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -120,7 +120,7 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 210,
+  "episodes": 219,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -144,7 +144,7 @@ var series = [{
 },{
   "title": "Friends",
   "imdb": "http://www.imdb.com/title/tt0108778/",
-  "episodes": 41,
+  "episodes": 238,
   "totalEpisodes": 239,
   "episodeLength": 22,
   "stillWatching": 1
@@ -189,7 +189,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 193,
+  "episodes": 197,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -213,7 +213,7 @@ var series = [{
 },{
   "title": "Joey",
   "imdb": "http://www.imdb.com/title/tt0375355/",
-  "episodes": 11,
+  "episodes": 17,
   "episodeLength": 24,
   "stillWatching": 1
 }, {
@@ -263,7 +263,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 124,
+  "episodes": 126,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -319,7 +319,7 @@ var series = [{
 }, {
   "title": "Sherlock",
   "imdb": "http://www.imdb.com/title/tt1475582",
-  "episodes": "6",
+  "episodes": 8,
   "episodeLength": 90,
   "stillWatching": 1
 }, {
@@ -350,7 +350,7 @@ var series = [{
 },{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 230,
+  "episodes": 235,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
