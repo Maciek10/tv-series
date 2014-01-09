@@ -14,7 +14,7 @@ var series = [{
 }, {
   "title": "American Dad",
   "imdb": "http://www.imdb.com/title/tt0397306",
-  "episodes": 152,
+  "episodes": 160,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
@@ -263,7 +263,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 126,
+  "episodes": 127,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
