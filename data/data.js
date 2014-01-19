@@ -33,7 +33,7 @@ var series = [{
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
-  "episodes": 32,
+  "episodes": 33,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -189,7 +189,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 197,
+  "episodes": 198,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -263,7 +263,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 127,
+  "episodes": 128,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
