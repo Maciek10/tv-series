@@ -33,7 +33,7 @@ var series = [{
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
-  "episodes": 33,
+  "episodes": 34,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -189,7 +189,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 198,
+  "episodes": 199,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
