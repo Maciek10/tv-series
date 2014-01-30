@@ -120,7 +120,7 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 220,
+  "episodes": 221,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -189,7 +189,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 199,
+  "episodes": 200,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -312,7 +312,7 @@ var series = [{
 }, {
   "title": "Shameless US",
   "imdb": "http://www.imdb.com/title/tt1586680",
-  "episodes": 37,
+  "episodes": 38,
   "episodeLength": 55,
   "stillWatching": 1
 }, {
