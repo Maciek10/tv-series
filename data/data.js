@@ -143,10 +143,10 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 221,
+  "episodes": 222,
   "episodeLength": 22,
   "stillWatching": 1,
-  'lastWatched': 'S12E11'
+  'lastWatched': 'S12E12'
 }, {
   "title": "FlashForward",
   "imdb": "http://www.imdb.com/title/tt1441135/",
@@ -402,10 +402,10 @@ var series = [{
 },{
   "title": "Two and a Half Men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 237,
+  "episodes": 241,
   "episodeLength": 21,
   "stillWatching": 1,
-  'lastWatched': 'S11E13'
+  'lastWatched': 'S11E17'
 }, {
   "title": "White Collar",
   "imdb": "http://www.imdb.com/title/tt1358522/",
