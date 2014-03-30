@@ -13,7 +13,8 @@ var series = [{
   "imdb": "tt0397306",
   "episodes": 162,
   "stillWatching": 1,
-  "lastWatched": 'S10E10'
+  "lastWatched": 'S10E10',
+  "poster": "http://images4.fanpop.com/image/photos/16000000/-American-Dad-Poster-american-dad-16068693-1036-1500.jpg"
 }, {
   "title": "American Horror Story",
   "imdb": "tt1844624",
@@ -99,7 +100,8 @@ var series = [{
   "title": "Da Vinci's Demons",
   "imdb": "tt2094262",
   "episodes": 8,
-  "stillWatching": 1
+  "stillWatching": 1,
+  "lastWatched" : "S01E08"
 },{
   "title": "Dexter",
   "imdb": "tt0773262",
@@ -150,7 +152,8 @@ var series = [{
   "title": "Futurama",
   "imdb": "tt0149460",
   "episodes": 131,
-  "stillWatching": 1
+  "stillWatching": 1,
+  "lastWatched": "S07E17"
 }, {
   "title": "Game of Thrones",
   "imdb": "tt0944947",
@@ -177,9 +180,9 @@ var series = [{
 }, {
   "title": "House of Cards",
   "imdb": "tt1856010",
-  "episodes": 13,
+  "episodes": 14,
   "stillWatching": 1,
-  'lastWatched': 'S01E13',
+  'lastWatched': 'S01E14',
   'wiki' : 'House_of_Cards_(U.S._TV_series)'
 }, {
   "title": "How I Met Your Mother",
@@ -359,3 +362,5 @@ var series = [{
   "stillWatching": 0,
   'wiki' : 'The Wire'
 }];
+
+module.exports = series;
