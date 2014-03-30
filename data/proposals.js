@@ -8,8 +8,12 @@ var toConsider = [{
   "imdb": "tt2654580",
   "stillWatching": 1,
   "votes": ["scryptonite"]
-},
-{
+}, {
+  "title": "Archer",
+  "imdb": "tt1486217",
+  "stillWatching": 1,
+  "votes": ["mmalecki"]
+}, {
   "title": "Arrested development",
   "imdb": "tt0367279",
   "stillWatching": 0,
@@ -166,7 +170,7 @@ var toConsider = [{
   "title": "Weeds",
   "imdb": "tt0439100",
   "stillWatching": 0,
-  "votes": ["tizianozonta", "ryanburgess"],
+  "votes": ["tizianozonta", "ryanburgess", "mmalecki"],
   'wiki' : 'Weeds_(TV_series)'
 }, {
   "title": "Wilfred",
